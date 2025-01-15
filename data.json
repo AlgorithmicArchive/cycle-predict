@@ -1,0 +1,1119 @@
+[{
+  "_id": {
+    "$oid": "656b2d881dcb47e75cf94a64"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 29,
+  "startMonth": 1,
+  "startYear": 2020,
+  "endDay": 4,
+  "endMonth": 2,
+  "endYear": 2020,
+  "afterDays": 22
+},
+{
+  "_id": {
+    "$oid": "656b2e5d1dcb47e75cf94a67"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 9,
+  "startMonth": 4,
+  "startYear": 2020,
+  "endDay": 15,
+  "endMonth": 4,
+  "endYear": 2020,
+  "afterDays": 16
+},
+{
+  "_id": {
+    "$oid": "656b30711dcb47e75cf94a76"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 15,
+  "startMonth": 4,
+  "startYear": 2021,
+  "endDay": 22,
+  "endMonth": 4,
+  "endYear": 2021,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b34471dcb47e75cf94a83"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 26,
+  "startMonth": 2,
+  "startYear": 2022,
+  "endDay": 4,
+  "endMonth": 3,
+  "endYear": 2022,
+  "afterDays": 18
+},
+{
+  "_id": {
+    "$oid": "656b34511dcb47e75cf94a84"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 23,
+  "startMonth": 3,
+  "startYear": 2022,
+  "endDay": 28,
+  "endMonth": 3,
+  "endYear": 2022,
+  "afterDays": 19
+},
+{
+  "_id": {
+    "$oid": "656b34741dcb47e75cf94a88"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 9,
+  "startMonth": 7,
+  "startYear": 2022,
+  "endDay": 16,
+  "endMonth": 7,
+  "endYear": 2022,
+  "afterDays": 21
+},
+{
+  "_id": {
+    "$oid": "656b34a61dcb47e75cf94a8d"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 10,
+  "startMonth": 11,
+  "startYear": 2022,
+  "endDay": 16,
+  "endMonth": 11,
+  "endYear": 2022,
+  "afterDays": 12
+},
+{
+  "_id": {
+    "$oid": "656b34b81dcb47e75cf94a8f"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 30,
+  "startMonth": 12,
+  "startYear": 2022,
+  "endDay": 5,
+  "endMonth": 1,
+  "endYear": 2023,
+  "afterDays": 18
+},
+{
+  "_id": {
+    "$oid": "656b34c11dcb47e75cf94a90"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 25,
+  "startMonth": 1,
+  "startYear": 2023,
+  "endDay": 31,
+  "endMonth": 1,
+  "endYear": 2023,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b350b1dcb47e75cf94a95"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 2,
+  "startMonth": 6,
+  "startYear": 2023,
+  "endDay": 7,
+  "endMonth": 6,
+  "endYear": 2023,
+  "afterDays": 19
+},
+{
+  "_id": {
+    "$oid": "656b2ec51dcb47e75cf94a6c"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 8,
+  "startMonth": 8,
+  "startYear": 2020,
+  "endDay": 14,
+  "endMonth": 8,
+  "endYear": 2020,
+  "afterDays": 22
+},
+{
+  "_id": {
+    "$oid": "656b30021dcb47e75cf94a6d"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 30,
+  "startMonth": 8,
+  "startYear": 2020,
+  "endDay": 6,
+  "endMonth": 9,
+  "endYear": 2020,
+  "afterDays": 16
+},
+{
+  "_id": {
+    "$oid": "656b30161dcb47e75cf94a6f"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 23,
+  "startMonth": 10,
+  "startYear": 2020,
+  "endDay": 30,
+  "endMonth": 10,
+  "endYear": 2020,
+  "afterDays": 18
+},
+{
+  "_id": {
+    "$oid": "656b30541dcb47e75cf94a73"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 1,
+  "startMonth": 2,
+  "startYear": 2021,
+  "endDay": 8,
+  "endMonth": 2,
+  "endYear": 2021,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b30691dcb47e75cf94a75"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 21,
+  "startMonth": 3,
+  "startYear": 2021,
+  "endDay": 26,
+  "endMonth": 3,
+  "endYear": 2021,
+  "afterDays": 17
+},
+{
+  "_id": {
+    "$oid": "656b34d31dcb47e75cf94a92"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 17,
+  "startMonth": 3,
+  "startYear": 2023,
+  "endDay": 25,
+  "endMonth": 3,
+  "endYear": 2023,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b35151dcb47e75cf94a96"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 1,
+  "startMonth": 7,
+  "startYear": 2023,
+  "endDay": 7,
+  "endMonth": 7,
+  "endYear": 2023,
+  "afterDays": 24
+},
+{
+  "_id": {
+    "$oid": "656b35341dcb47e75cf94a98"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 27,
+  "startMonth": 8,
+  "startYear": 2023,
+  "endDay": 2,
+  "endMonth": 9,
+  "endYear": 2023,
+  "afterDays": 21
+},
+{
+  "_id": {
+    "$oid": "656b353c1dcb47e75cf94a99"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 25,
+  "startMonth": 9,
+  "startYear": 2023,
+  "endDay": 3,
+  "endMonth": 10,
+  "endYear": 2023,
+  "afterDays": 23
+},
+{
+  "_id": {
+    "$oid": "656b2b221dcb47e75cf94a61"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 10,
+  "startMonth": 11,
+  "startYear": 2019,
+  "endDay": 15,
+  "endMonth": 11,
+  "endYear": 2019,
+  "afterDays": 16
+},
+{
+  "_id": {
+    "$oid": "656b300d1dcb47e75cf94a6e"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 26,
+  "startMonth": 9,
+  "startYear": 2020,
+  "endDay": 5,
+  "endMonth": 10,
+  "endYear": 2020,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b305e1dcb47e75cf94a74"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 26,
+  "startMonth": 2,
+  "startYear": 2021,
+  "endDay": 4,
+  "endMonth": 3,
+  "endYear": 2021,
+  "afterDays": 18
+},
+{
+  "_id": {
+    "$oid": "656b345c1dcb47e75cf94a85"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 22,
+  "startMonth": 4,
+  "startYear": 2022,
+  "endDay": 28,
+  "endMonth": 4,
+  "endYear": 2022,
+  "afterDays": 25
+},
+{
+  "_id": {
+    "$oid": "656b347c1dcb47e75cf94a89"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 2,
+  "startMonth": 8,
+  "startYear": 2022,
+  "endDay": 6,
+  "endMonth": 8,
+  "endYear": 2022,
+  "afterDays": 17
+},
+{
+  "_id": {
+    "$oid": "656b34831dcb47e75cf94a8a"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 25,
+  "startMonth": 8,
+  "startYear": 2022,
+  "endDay": 29,
+  "endMonth": 8,
+  "endYear": 2022,
+  "afterDays": 19
+},
+{
+  "_id": {
+    "$oid": "656b348e1dcb47e75cf94a8b"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 22,
+  "startMonth": 9,
+  "startYear": 2022,
+  "endDay": 26,
+  "endMonth": 9,
+  "endYear": 2022,
+  "afterDays": 24
+},
+{
+  "_id": {
+    "$oid": "65cb83d27f1f3f21ba335e4a"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 11,
+  "startMonth": 2,
+  "startYear": 2024,
+  "endDay": 17,
+  "endMonth": 2,
+  "endYear": 2024,
+  "afterDays": 22
+},
+{
+  "_id": {
+    "$oid": "656b2c9e1dcb47e75cf94a62"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 8,
+  "startMonth": 12,
+  "startYear": 2019,
+  "endDay": 18,
+  "endMonth": 12,
+  "endYear": 2019,
+  "afterDays": 23
+},
+{
+  "_id": {
+    "$oid": "656b2d6e1dcb47e75cf94a63"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 1,
+  "startMonth": 1,
+  "startYear": 2020,
+  "endDay": 7,
+  "endMonth": 1,
+  "endYear": 2020,
+  "afterDays": 14
+},
+{
+  "_id": {
+    "$oid": "656b2d941dcb47e75cf94a65"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 22,
+  "startMonth": 2,
+  "startYear": 2020,
+  "endDay": 26,
+  "endMonth": 2,
+  "endYear": 2020,
+  "afterDays": 18
+},
+{
+  "_id": {
+    "$oid": "656b303b1dcb47e75cf94a70"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 19,
+  "startMonth": 11,
+  "startYear": 2020,
+  "endDay": 25,
+  "endMonth": 11,
+  "endYear": 2020,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b33b91dcb47e75cf94a79"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 6,
+  "startMonth": 6,
+  "startYear": 2021,
+  "endDay": 12,
+  "endMonth": 6,
+  "endYear": 2021,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b34291dcb47e75cf94a80"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 11,
+  "startMonth": 12,
+  "startYear": 2021,
+  "endDay": 17,
+  "endMonth": 12,
+  "endYear": 2021,
+  "afterDays": 22
+},
+{
+  "_id": {
+    "$oid": "656b35251dcb47e75cf94a97"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 30,
+  "startMonth": 7,
+  "startYear": 2023,
+  "endDay": 6,
+  "endMonth": 8,
+  "endYear": 2023,
+  "afterDays": 23
+},
+{
+  "_id": {
+    "$oid": "656b2e9a1dcb47e75cf94a6a"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 14,
+  "startMonth": 6,
+  "startYear": 2020,
+  "endDay": 18,
+  "endMonth": 6,
+  "endYear": 2020,
+  "afterDays": 17
+},
+{
+  "_id": {
+    "$oid": "656b30431dcb47e75cf94a71"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 14,
+  "startMonth": 12,
+  "startYear": 2020,
+  "endDay": 21,
+  "endMonth": 12,
+  "endYear": 2020,
+  "afterDays": 19
+},
+{
+  "_id": {
+    "$oid": "656b30a71dcb47e75cf94a77"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 12,
+  "startMonth": 5,
+  "startYear": 2021,
+  "endDay": 17,
+  "endMonth": 5,
+  "endYear": 2021,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b33fa1dcb47e75cf94a7c"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 23,
+  "startMonth": 8,
+  "startYear": 2021,
+  "endDay": 30,
+  "endMonth": 8,
+  "endYear": 2021,
+  "afterDays": 17
+},
+{
+  "_id": {
+    "$oid": "656b34071dcb47e75cf94a7d"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 18,
+  "startMonth": 9,
+  "startYear": 2021,
+  "endDay": 23,
+  "endMonth": 9,
+  "endYear": 2021,
+  "afterDays": 19
+},
+{
+  "_id": {
+    "$oid": "656b343e1dcb47e75cf94a82"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 31,
+  "startMonth": 1,
+  "startYear": 2022,
+  "endDay": 8,
+  "endMonth": 2,
+  "endYear": 2022,
+  "afterDays": 17
+},
+{
+  "_id": {
+    "$oid": "656b346c1dcb47e75cf94a87"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 13,
+  "startMonth": 6,
+  "startYear": 2022,
+  "endDay": 18,
+  "endMonth": 6,
+  "endYear": 2022,
+  "afterDays": 17
+},
+{
+  "_id": {
+    "$oid": "656b34af1dcb47e75cf94a8e"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 4,
+  "startMonth": 12,
+  "startYear": 2022,
+  "endDay": 12,
+  "endMonth": 12,
+  "endYear": 2022,
+  "afterDays": 18
+},
+{
+  "_id": {
+    "$oid": "656b35461dcb47e75cf94a9a"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 23,
+  "startMonth": 10,
+  "startYear": 2023,
+  "endDay": 29,
+  "endMonth": 10,
+  "endYear": 2023,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b2e1f1dcb47e75cf94a66"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 18,
+  "startMonth": 3,
+  "startYear": 2020,
+  "endDay": 24,
+  "endMonth": 3,
+  "endYear": 2020,
+  "afterDays": 21
+},
+{
+  "_id": {
+    "$oid": "656b2e691dcb47e75cf94a68"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 30,
+  "startMonth": 4,
+  "startYear": 2020,
+  "endDay": 4,
+  "endMonth": 5,
+  "endYear": 2020,
+  "afterDays": 15
+},
+{
+  "_id": {
+    "$oid": "656b34111dcb47e75cf94a7e"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 14,
+  "startMonth": 10,
+  "startYear": 2021,
+  "endDay": 20,
+  "endMonth": 10,
+  "endYear": 2021,
+  "afterDays": 21
+},
+{
+  "_id": {
+    "$oid": "656b34201dcb47e75cf94a7f"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 11,
+  "startMonth": 11,
+  "startYear": 2021,
+  "endDay": 19,
+  "endMonth": 11,
+  "endYear": 2021,
+  "afterDays": 22
+},
+{
+  "_id": {
+    "$oid": "656b34641dcb47e75cf94a86"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 20,
+  "startMonth": 5,
+  "startYear": 2022,
+  "endDay": 27,
+  "endMonth": 5,
+  "endYear": 2022,
+  "afterDays": 22
+},
+{
+  "_id": {
+    "$oid": "656b34f81dcb47e75cf94a93"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 14,
+  "startMonth": 4,
+  "startYear": 2023,
+  "endDay": 21,
+  "endMonth": 4,
+  "endYear": 2023,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b35031dcb47e75cf94a94"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 9,
+  "startMonth": 5,
+  "startYear": 2023,
+  "endDay": 14,
+  "endMonth": 5,
+  "endYear": 2023,
+  "afterDays": 18
+},
+{
+  "_id": {
+    "$oid": "656b35521dcb47e75cf94a9b"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 19,
+  "startMonth": 11,
+  "startYear": 2023,
+  "endDay": 25,
+  "endMonth": 11,
+  "endYear": 2023,
+  "afterDays": 21
+},
+{
+  "_id": {
+    "$oid": "65a4938f26e3c8fde08c2c87"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 15,
+  "startMonth": 1,
+  "startYear": 2024,
+  "endDay": 20,
+  "endMonth": 1,
+  "endYear": 2024,
+  "afterDays": 27
+},
+{
+  "_id": {
+    "$oid": "65ed6f266b55415403dd3a36"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 7,
+  "startMonth": 3,
+  "startYear": 2024,
+  "endDay": 13,
+  "endMonth": 3,
+  "endYear": 2024,
+  "afterDays": 19
+},
+{
+  "_id": {
+    "$oid": "656b2ea91dcb47e75cf94a6b"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 12,
+  "startMonth": 7,
+  "startYear": 2020,
+  "endDay": 17,
+  "endMonth": 7,
+  "endYear": 2020,
+  "afterDays": 24
+},
+{
+  "_id": {
+    "$oid": "656b304b1dcb47e75cf94a72"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 8,
+  "startMonth": 1,
+  "startYear": 2021,
+  "endDay": 12,
+  "endMonth": 1,
+  "endYear": 2021,
+  "afterDays": 18
+},
+{
+  "_id": {
+    "$oid": "656b34ca1dcb47e75cf94a91"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 20,
+  "startMonth": 2,
+  "startYear": 2023,
+  "endDay": 25,
+  "endMonth": 2,
+  "endYear": 2023,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b28fd1dcb47e75cf94a60"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 16,
+  "startMonth": 10,
+  "startYear": 2019,
+  "endDay": 25,
+  "endMonth": 10,
+  "endYear": 2019,
+  "afterDays": 0
+},
+{
+  "_id": {
+    "$oid": "656b2e861dcb47e75cf94a69"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 23,
+  "startMonth": 5,
+  "startYear": 2020,
+  "endDay": 28,
+  "endMonth": 5,
+  "endYear": 2020,
+  "afterDays": 19
+},
+{
+  "_id": {
+    "$oid": "656b33c51dcb47e75cf94a7a"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 3,
+  "startMonth": 7,
+  "startYear": 2021,
+  "endDay": 9,
+  "endMonth": 7,
+  "endYear": 2021,
+  "afterDays": 21
+},
+{
+  "_id": {
+    "$oid": "656b33ee1dcb47e75cf94a7b"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 30,
+  "startMonth": 7,
+  "startYear": 2021,
+  "endDay": 6,
+  "endMonth": 8,
+  "endYear": 2021,
+  "afterDays": 21
+},
+{
+  "_id": {
+    "$oid": "656b34361dcb47e75cf94a81"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 6,
+  "startMonth": 1,
+  "startYear": 2022,
+  "endDay": 14,
+  "endMonth": 1,
+  "endYear": 2022,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "656b349e1dcb47e75cf94a8c"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 17,
+  "startMonth": 10,
+  "startYear": 2022,
+  "endDay": 29,
+  "endMonth": 10,
+  "endYear": 2022,
+  "afterDays": 21
+},
+{
+  "_id": {
+    "$oid": "659be0f1144b83cd60bec8c3"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 15,
+  "startMonth": 12,
+  "startYear": 2023,
+  "endDay": 19,
+  "endMonth": 12,
+  "endYear": 2023,
+  "afterDays": 20
+},
+{
+  "_id": {
+    "$oid": "660fee10f653c3d8ed334784"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 3,
+  "startMonth": 4,
+  "startYear": 2024,
+  "endDay": 7,
+  "endMonth": 4,
+  "endYear": 2024,
+  "afterDays": 21
+},
+{
+  "_id": {
+    "$oid": "66372613847f9f96d03658c9"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 3,
+  "startMonth": 5,
+  "startYear": 2024,
+  "endDay": 9,
+  "endMonth": 5,
+  "endYear": 2024,
+  "afterDays": 26
+},
+{
+  "_id": {
+    "$oid": "678638a28e381597ea9d3614"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 29,
+  "startMonth": 5,
+  "startYear": 2024,
+  "endDay": 3,
+  "endMonth": 6,
+  "endYear": 2024,
+  "afterDays": 20,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678638a28e381597ea9d3617"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 24,
+  "startMonth": 6,
+  "startYear": 2024,
+  "endDay": 29,
+  "endMonth": 6,
+  "endYear": 2024,
+  "afterDays": 21,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786392e8e381597ea9d361e"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 25,
+  "startMonth": 7,
+  "startYear": 2024,
+  "endDay": 31,
+  "endMonth": 7,
+  "endYear": 2024,
+  "afterDays": 26,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786392e8e381597ea9d3622"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 21,
+  "startMonth": 8,
+  "startYear": 2024,
+  "endDay": 28,
+  "endMonth": 8,
+  "endYear": 2024,
+  "afterDays": 21,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786392e8e381597ea9d3626"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 20,
+  "startMonth": 9,
+  "startYear": 2024,
+  "endDay": 27,
+  "endMonth": 9,
+  "endYear": 2024,
+  "afterDays": 23,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786392e8e381597ea9d362a"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 13,
+  "startMonth": 10,
+  "startYear": 2024,
+  "endDay": 18,
+  "endMonth": 10,
+  "endYear": 2024,
+  "afterDays": 16,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786392e8e381597ea9d362e"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 4,
+  "startMonth": 11,
+  "startYear": 2024,
+  "endDay": 10,
+  "endMonth": 11,
+  "endYear": 2024,
+  "afterDays": 17,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786392e8e381597ea9d3632"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 1,
+  "startMonth": 12,
+  "startYear": 2024,
+  "endDay": 6,
+  "endMonth": 12,
+  "endYear": 2024,
+  "afterDays": 21,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786392e8e381597ea9d3635"
+  },
+  "user_id": {
+    "$oid": "65689d43582f5a9fb271261e"
+  },
+  "startDay": 29,
+  "startMonth": 12,
+  "startYear": 2024,
+  "endDay": 4,
+  "endMonth": 1,
+  "endYear": 2025,
+  "afterDays": 23,
+  "__v": 0
+}]
